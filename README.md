@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0142-linked-list-cycle-ii) |
+| [0383-ransom-note](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
