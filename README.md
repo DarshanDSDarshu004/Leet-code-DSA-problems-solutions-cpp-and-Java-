@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -99,8 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0143-reorder-list) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/1854-maximum-population-year) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
