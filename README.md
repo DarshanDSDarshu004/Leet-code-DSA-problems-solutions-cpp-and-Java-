@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0994-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0303-range-sum-query-immutable) |
 | [1854-maximum-population-year](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/1854-maximum-population-year) |
 ## Stack
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
