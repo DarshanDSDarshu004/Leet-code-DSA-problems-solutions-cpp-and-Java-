@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0168-excel-sheet-column-title) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
