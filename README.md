@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0383-ransom-note) |
 | [0454-4sum-ii](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0454-4sum-ii) |
 | [1995-count-special-quadruplets](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/1995-count-special-quadruplets) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0168-excel-sheet-column-title](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0383-ransom-note) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0242-valid-anagram/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3731-find-missing-elements](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/3731-find-missing-elements) |
 ## Tree
