@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0326-power-of-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/master/0042-trapping-rain-water) |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/DarshanDSDarshu004/Leet-code-DSA-problems-solutions-cpp-and-Java-/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
